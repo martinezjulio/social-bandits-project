@@ -5,7 +5,7 @@ This project explores how humans learn through experimentation and observation.
 
 ## Repos
 Here are the repositories involved in this project:
-- [Experiment Code](https://github.com/martinezjulio/AsteroidMiningGame): Code for running the multi-armed bandit experiment.
+- [Experiment Code](https://github.com/martinezjulio/AsteroidMiningExperiment_CogSci2024): Code for running the multi-armed bandit experiment.
 - [Analysis Code](https://github.com/martinezjulio/social-bandits-analyis): Data analysis, figures and results.
 - [Modeling Code](https://github.com/martinezjulio/social-bandits-modeling): Modeling humans on social multiarmed bandits experiment.
 
@@ -14,4 +14,5 @@ Here are the repositories involved in this project:
 
 ## Contact
 Julio Martinez
+
 juliomz@stanford.edu
