@@ -10,7 +10,7 @@ Here are the repositories involved in this project:
 - [Modeling Code](https://github.com/martinezjulio/social-bandits-modeling): Modeling humans on social multiarmed bandits experiment.
 
 ## Project Board
-[GitHub Project Board](https://github.com/users/your-username/projects/1).
+[GitHub Project Board](https://github.com/users/martinezjulio/projects/3).
 
 ## Contact
 Julio Martinez
