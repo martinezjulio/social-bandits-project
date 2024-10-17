@@ -1,0 +1,17 @@
+# Social Learning with Multi-Armed Bandits
+
+Welcome to the Social Learning with Multi-Armed Bandits project!  
+This project explores how humans learn through experimentation and observation.
+
+## Repos
+Here are the repositories involved in this project:
+- [Experiment Code](https://github.com/martinezjulio/AsteroidMiningGame): Code for running the multi-armed bandit experiment.
+- [Social RL Analysis](https://github.com/martinezjulio/social-multiarmed-bandits-analyis): Data analysis, figures and results.
+- [Modeling Code](https://github.com/martinezjulio/social-bandits): Modeling humans on social multiarmed bandits experiment.
+
+## Project Board
+[GitHub Project Board](https://github.com/users/your-username/projects/1).
+
+## Contact
+Julio Martinez
+juliomz@stanford.edu
